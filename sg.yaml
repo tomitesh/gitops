@@ -2,6 +2,5 @@ apiVersion: s3.services.k8s.aws/v1alpha1
 kind: Bucket
 metadata:
   name: abcexample123
-  namespace: ack-system
 spec: 
   name: abcexample123
